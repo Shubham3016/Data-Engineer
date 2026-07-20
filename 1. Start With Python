@@ -1,0 +1,60 @@
+print("Hello")
+
+#print() function to display text or output values:
+
+
+# Comments  note in your code that python skips
+
+''''Comments '''
+
+# Function
+
+#mini machine inprogram give input and that returns result
+
+'''
+Threee main sources
+built in funciton  ex printc input lenf max 
+third party function pandas numpy 
+user defined function 
+we need to create this my self
+'''
+
+# In Single quotes
+print("HI welcome to python")
+
+# IN Double quotes
+print('Hello Welcome to Python')
+
+# cannot use
+# print('h")  # gives an error 
+
+print("--------------------------")
+print("-!@#$%^&*()")
+print("HELLO")
+print("--------------------------")
+
+
+#Special charcters
+
+## this are the normal characters like a,v,b,d,s, abc@gmail.com
+## but some characters have special meaning
+
+# \(Backslash)
+
+# print("Hi "Python"")
+print("HI \"Python\"") #backslash before and after quotes
+
+
+print('Hi welcome to \'python\' era')
+
+print('Hi "Python"')
+
+print('Hi "Python"')
+
+print('Hi \'Python\'')
+print("Hi 'Python'")
+
+
+#print("path:c\Users\File\demo.py")
+print("Path:c\\Users\\File\\demo.py")
+
