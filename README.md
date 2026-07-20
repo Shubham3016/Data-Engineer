@@ -172,6 +172,4 @@ Let’s say you work for a **bank 🏦**:
 ---
 <img width="652" height="446" alt="image" src="https://github.com/user-attachments/assets/b4dfc5e7-6dd5-42cc-974a-11e1d6e0d62d" />
 
-📘 **Author:** Shubham More  
-SQL BI Developer | Data Engineer | Data Analyst  
-📍 Thane, Maharashtra  
+ 
